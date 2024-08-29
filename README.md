@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Isis Terra
 
-- 🌱 Estudando Front-End
+- 🎓 Desenvolvedora Front-End
 - 😄 Pronomes: ela/dela
 
 <div>
