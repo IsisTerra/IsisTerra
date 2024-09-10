@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Isis Terra
-
-- 🎓 Desenvolvedora Front-End
+- 🌎 Sou natural de Teresópolis - RJ
+- 📍Moro em Florianópolis - SC ☀️
+- 🎓 Desenvolvedora Front-End pela Tech4me
 - 😄 Pronomes: ela/dela
 
 <div>
