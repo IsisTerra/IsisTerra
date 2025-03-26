@@ -2,6 +2,7 @@
 - 🌎 Sou natural de Teresópolis - RJ
 - 📍Moro em Florianópolis - SC ☀️
 - 🎓 Desenvolvedora Front-End pela Tech4me
+- 🎓 Cursando bacharelado em Ciência da computação
 - 😄 Pronomes: ela/dela
 
 <div>
